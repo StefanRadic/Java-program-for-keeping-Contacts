@@ -7,3 +7,5 @@
 3. In Libraries section in NetBeans IDE, certain libraries must be added: Java DB driver, MySQL JDBC Driver.
 
 4. Servlets, JSP technologies were used when creating this project.
+
+5. To view the source code for xhtml, open the "web" folder.
