@@ -9,3 +9,5 @@
 4. Servlets, JSP technologies were used when creating this project.
 
 5. To view the source code for xhtml, open the "web" folder.
+
+6. Check Images folder to see how it works.
