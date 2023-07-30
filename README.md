@@ -5,3 +5,5 @@
 2. jdk1.8.0_241 needs to be installed as well. GlassFish server 4.1.1 version was used.
 
 3. In Libraries section in NetBeans IDE, certain libraries must be added: Java DB driver, MySQL JDBC Driver.
+
+4. Servlets, JSP technologies were used when creating this project.
